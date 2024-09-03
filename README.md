@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/poudelb3">Biswas Poudel</a></h1>
-<h3 align="center">An aspiring Data Scientist venturing into the world of Multimodal Large Language Model (MLLMs)</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A passionate Data Scientist venturing into the world of Multimodal Large Language Models (MLLMs)</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poudelb3&label=Profile%20views&color=0e75b6&style=flat" alt="poudelb3" /> </p>
 
 - 🔭 I’m currently studying MS in CS at **Texas A&M University**
