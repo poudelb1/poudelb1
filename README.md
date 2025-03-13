@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/poudelb1">Biswas Poudel</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://poudelb.com.np/">Biswas Poudel</a></h1>
 <h3 align="center">A passionate Data Scientist venturing into the world of Multimodal Large Language Models (MLLMs)</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poudelb1&label=Profile%20views&color=0e75b6&style=flat" alt="poudelb1" /> </p>
