@@ -13,7 +13,7 @@
 
 - 📫 Reach me @ **hirebpoudel@gmail.com**
 
-- ⚡ Fun fact: **Proud Barcelona and Argentine Soccer fan** Also follows Formula 1 🏎️
+- ⚡ Fun fact: **Proud Barcelona & Argentine ⚽ fan** Also follows Formula 1 **🏎️**
 
 
 <h3 align="left">Connect with me:</h3>
