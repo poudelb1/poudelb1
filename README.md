@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poudelb1&label=Profile%20views&color=0e75b6&style=flat" alt="poudelb1" /> </p>
 
 - 🔭 I’m currently studying MS in CS at **Texas A&M University**
--  :books: Graduated with Bachelors in Mechanical Engineering from **Embry-Riddle Aeronautical University**
+-  :books: Graduated with Bachelors in Mechanical Engineering 🚀 from **Embry-Riddle Aeronautical University**
 
 - 🌱 I’m currently learning **Pytorch**, **Deep Learning**, **& Generative AI**
 - 👯 I’m looking to collaborate on developing **LLM powered applications** including RAG, Finetuning, LLM optimizations, etc
@@ -13,7 +13,7 @@
 
 - 📫 Reach me @ **hirebpoudel@gmail.com**
 
-- ⚡ Fun fact: **Proud Barcelona and Argentine Soccer fan** Also follows Formula 1 ![image](https://github.com/user-attachments/assets/62417dcf-401d-4578-b419-261fcf7c63ec)
+- ⚡ Fun fact: **Proud Barcelona and Argentine Soccer fan** Also follows Formula 1 🏎️
 
 
 <h3 align="left">Connect with me:</h3>
